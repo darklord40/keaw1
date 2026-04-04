@@ -2,5 +2,5 @@
 
  echo"Hellow world";
  echo"Hellow world2";
- $x=55;
+ $x=550000;
 ?>
